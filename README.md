@@ -10,7 +10,7 @@ You have access to behavior data about subscribers who have already switched to 
 
 Develop a model with the highest possible accuracy. In this project, the threshold for accuracy is 0.75. Check the accuracy using the test dataset.
 
-## Requirements
+# Instructions
 
 1. Open and look through the data file. Path to the file:datasets/users_behavior.csv Download dataset
 2. Split the source data into a training set, a validation set, and a test set.
